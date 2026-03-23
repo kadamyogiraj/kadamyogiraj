@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Gayake</h1>
+<h1 align="center">Hi 👋, I'm Yogiraj Kadam</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Cybersecurity Learner </h3>
 
 <p align="center">
